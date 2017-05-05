@@ -1,0 +1,12 @@
+for reading from a file 
+	- open eclipse
+	- find the Main class 
+		- BAE_Test
+		- scr
+		-mainCode
+		-main
+
+	-copy in the address for the file in to the argument section
+	- ensure it has the correct address, will require double back slash
+		and c:\\ at the start
+	-run the main code
